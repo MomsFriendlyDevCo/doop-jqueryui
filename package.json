@@ -1,0 +1,23 @@
+{
+  "name": "@doop/jqueryui",
+  "version": "1.0.0",
+  "description": "A jQueryUI service for the Doop framework",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MomsFriendlyDevCo/doop-jqueryui.git"
+  },
+  "keywords": [
+    "doop"
+  ],
+  "author": "Matt Carter <m@ttcarter.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MomsFriendlyDevCo/doop-jqueryui/issues"
+  },
+  "homepage": "https://github.com/MomsFriendlyDevCo/doop-jqueryui#readme",
+  "dependencies": {
+    "@doop/debug": "^1.0.4",
+    "jquery": "^3.5.1",
+    "jquery-ui": "^1.12.1"
+  }
+}
